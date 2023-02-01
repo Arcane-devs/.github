@@ -4,7 +4,7 @@ Arcane-Devs was created for develop Android Custom ROMs/Kernels/Recoverys/Portin
 
 Devices Offically Supported By **Arcane-Team**
 
-- | Redmi Note 10S/11SE(ID)/POCO M5s | Rosemary/Rosemary_p/Rosemary_in | MediaTek Helio G96 MT6785V
+- | Redmi Note 10S/11SE(ID)/POCO M5s | Rosemary/Rosemary_p/Rosemary_in | MediaTek Helio G95 MT6785V
 - | Redmi Note 11 Pro 5G (GL)/Redmi Note 11 Pro+ 5G (ID)/POCO X4 Pro 5G | veux/peux/veux_p/peux_p | Qualcomm SnapDragon 695 SM6375
 - | Samsung Galaxy J7 Pro/2017 | j7y17lte| Exynos 7870
 - | Samsung Galaxy A50 | a50 | Exynos 9610
