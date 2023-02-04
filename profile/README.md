@@ -12,5 +12,5 @@ Devices Offically Supported By **Arcane-Team**
 
 
 #####
-- | For Join to team, [Here](https://forms.gle/mjWjWLCic49NUKep9) and once it's done, DM [raaydown](https://t.me/raaydown) and/or [F1X](https://t.me/F1XRN10S)
+- | For Join to team, [Here](https://forms.gle/mjWjWLCic49NUKep9) and once it's done, DM [F1X](https://t.me/F1XRN10S)
 #####
